@@ -1,0 +1,17 @@
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\bin\Debug\Entity_learn.exe.config
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\bin\Debug\Entity_learn.exe
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\bin\Debug\Entity_learn.pdb
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.csprojAssemblyReference.cache
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.Properties.Resources.resources
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.csproj.GenerateResource.cache
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.csproj.CoreCompileInputs.cache
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.exe
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.pdb
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.Entity_learn.resources
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.MainMenycs.resources
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.csproj.ResolveComReference.cache
+C:\Users\Rixwart\source\repos\Entity_learn\Entity_learn\obj\Debug\Entity_learn.FormTesting.resources
